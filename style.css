@@ -1,0 +1,74 @@
+
+.body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(pexels-thirdman-8926549.jpg);
+    background-color: blue;  
+}
+.container0{
+    background-color: purple;
+}
+     
+.container{
+   
+   display: flex;
+   border: 10px solid purple;
+   border-radius: 50px;
+   width: 100%;
+   height: 800px;
+       
+}
+.button{
+ border-radius: 50px;
+ font-size: 30px;
+ color: purple;
+ background-color: yellow;
+ 
+ 
+
+}
+.container1{
+    padding:120px ;
+    margin:30px; 
+   color: white;
+   font-style: italic;
+   font-size: large;
+  bor
+}
+.mycontainer{
+    
+    width:300px;
+    height:300px;
+    
+}
+
+
+
+
+
+.container2{
+    padding:100px ;
+    margin:30px;
+}
+.container3{
+    padding:50px;
+    margin:10px;
+}
+.container4{
+    padding:50px;
+    margin:10px;
+}
+.container5{
+    padding:60px;
+    margin:5px;
+}
+.container6{
+    border-radius: 100px;
+    line-height: 20px;
+}
+.container7{
+    justify-content: center;
+    width:500px;
+    height: 300px;
+
+}
